@@ -1,1 +1,1 @@
-extern void testPairToNumber(enum,enum,int)
+extern void testPairToNumber(enum,enum,int);
